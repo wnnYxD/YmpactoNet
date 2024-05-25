@@ -1,0 +1,41 @@
+Contrato de Serviço de Internet e Streaming de Vídeo
+
+Partes:
+Este contrato é celebrado entre a YmpactoNet, doravante denominada "Provedor", e o Cliente, doravante denominado "Assinante".
+
+1. Objeto:
+O Provedor se compromete a fornecer ao Assinante o serviço de internet de acordo com o plano escolhido, juntamente com o acesso aos serviços de streaming de vídeo oferecidos pela YmpactoNet.
+
+2. Termo:
+Este contrato terá início na data de sua assinatura e permanecerá em vigor enquanto o Assinante mantiver uma assinatura ativa com o Provedor.
+
+3. Serviços de Internet:
+O Provedor se compromete a fornecer ao Assinante acesso à internet com velocidade e qualidade conforme o plano contratado, sujeito às limitações técnicas e operacionais.
+
+4. Serviços de Streaming de Vídeo:
+O Assinante terá acesso aos serviços de streaming de vídeo oferecidos pela YmpactoNet, os quais incluem uma variedade de conteúdos audiovisuais sob demanda.
+
+5. Pagamento:
+O Assinante concorda em pagar as taxas mensais ou anuais de acordo com o plano escolhido, conforme as políticas de cobrança estabelecidas pelo Provedor.
+
+6. Uso Permitido:
+O Assinante concorda em utilizar os serviços fornecidos apenas para fins pessoais e não comerciais. Qualquer uso indevido dos serviços pode resultar na suspensão ou cancelamento da assinatura.
+
+7. Responsabilidade do Assinante:
+O Assinante é responsável por garantir a segurança de sua conexão à internet e por manter suas credenciais de acesso aos serviços de streaming de vídeo em sigilo.
+
+8. Alterações no Serviço:
+O Provedor reserva-se o direito de fazer alterações nos serviços fornecidos, incluindo a adição ou remoção de conteúdos dos serviços de streaming de vídeo, mediante aviso prévio ao Assinante.
+
+9. Rescisão:
+O Assinante pode rescindir este contrato a qualquer momento, mediante aviso prévio ao Provedor. O Provedor também reserva-se o direito de rescindir o contrato em caso de violação dos termos estabelecidos.
+
+10. Jurisdição:
+Este contrato será regido e interpretado de acordo com as leis do país onde o Provedor está sediado, sendo o foro da comarca de sua sede o único competente para dirimir quaisquer controvérsias decorrentes deste contrato.
+
+Ao assinar abaixo, o Assinante declara ter lido, compreendido e concordado com os termos e condições deste contrato.
+
+__________________________                  __________________________
+Assinatura do Assinante                                 Assinatura do Provedor
+
+Data: _______/_______/_______
